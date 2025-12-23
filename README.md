@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Izaan(Iz)</h1>
 <h3 align="center">An HPC/Robotics/Accelerated Computing enthusiast from India</h3>
 
-<img src="https://charonhub.deeplearning.ai/content/images/2021/08/Horsepower-for-next-gen-netwroks-1.gif" width="400" style="float:right;">
+<img src="https://charonhub.deeplearning.ai/content/images/2021/08/Horsepower-for-next-gen-netwroks-1.gif" width="400" style="float:center;">
 
 
 
