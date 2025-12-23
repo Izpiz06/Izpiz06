@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Izaan(Iz)</h1>
 <h3 align="center">An HPC/Robotics/Accelerated Computing enthusiast from India</h3>
-(img align="right" alt="Coding" width="400" src="https://charonhub.deeplearning.ai/content/images/2021/08/Horsepower-for-next-gen-netwroks-1.gif")
+
+<img src="https://charonhub.deeplearning.ai/content/images/2021/08/Horsepower-for-next-gen-netwroks-1.gif" width="400" style="float:right;">
+
 
 
 - 🔭 I’m currently working on **Wait Time Predictor on an HPC System**
