@@ -106,6 +106,13 @@
 
 ---
 
+<h3 align="center">LeetCode Stats</h3>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mdiz06?theme=nord&font=JetBrains%20Mono&ext=heatmap" />
+</p>
+
+---
+
 ### Highlights
 - Built hybrid RF + LSTM HPC Wait-Time Prediction System  
 - Robotics and AI practitioner working on real systems  
