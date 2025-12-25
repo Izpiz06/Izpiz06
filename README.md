@@ -1,39 +1,110 @@
-<h1 align="center">Hi 👋, I'm Mohammad Izaan(Iz)</h1>
-<h3 align="center">An HPC/Robotics/Accelerated Computing enthusiast from India</h3>
+<h1 align="center">Hi, I'm Mohammad Izaan (Iz)</h1>
+<h3 align="center">High Performance Computing | Robotics | Accelerated Computing | AI</h3>
 
-<img src="https://charonhub.deeplearning.ai/content/images/2021/08/Horsepower-for-next-gen-netwroks-1.gif" width="400" style="float:center;">
-
-
-
-- 🔭 I’m currently working on **Wait Time Predictor on an HPC System**
-
-- 🌱 I’m currently learning **Slurm Scheduling, Docker, Kubernetes, ML Applications, CUDA, Parallel Programming**
-
-- 📫 How to reach me **mdizaan1192@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mdiz06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdiz06" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-izaan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-izaan/" height="30" width="40" /></a>
-<a href="https://kaggle.com/izpiz06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="izpiz06" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mdiz06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdiz06" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://charonhub.deeplearning.ai/content/images/2021/08/Horsepower-for-next-gen-netwroks-1.gif" width="400">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+### About Me
+- Working on HPC Job Wait Time Predictor at IIT Delhi  
+- Interests: High Performance Computing, Distributed Systems, CUDA, Robotics, AI  
+- Currently learning: SLURM, Docker, Kubernetes, Parallel Programming, ML Systems  
+- Contact: **mdizaan1192@gmail.com**
 
-<!--
-**Izpiz06/Izpiz06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Connect With Me
+<p align="left">
+<a href="https://twitter.com/mdiz06" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammad-izaan/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://kaggle.com/izpiz06" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mdiz06" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3 align="left">Languages and Tools</h3>
+
+<h4>HPC / Parallel Computing</h4>
+<p align="left">
+<a href="https://developer.nvidia.com/cuda-zone" target="_blank"><img src="https://www.vectorlogo.zone/logos/nvidia_cuda/nvidia_cuda-icon.svg" width="40" height="40"/></a>
+<a href="https://slurm.schedmd.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg" width="40" height="40"/></a>
+<a href="https://www.openmp.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/OpenMP_logo.svg" width="40" height="40"/></a>
+<a href="https://www.open-mpi.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/OpenMPI_logo.svg" width="40" height="40"/></a>
+</p>
+
+<h4>Programming and Scripting</h4>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/>
+</p>
+
+<h4>AI and Machine Learning</h4>
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+</p>
+
+<h4>Robotics and Perception</h4>
+<p align="left">
+<a href="https://www.ros.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" width="40" height="40"/>
+</a>
+<a href="https://opencv.org/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
+</a>
+<a href="https://www.arduino.cc/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
+</a>
+<a href="https://www.espressif.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Espressif_logo.svg" width="40" height="40"/>
+</a>
+<a href="https://www.raspberrypi.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" width="40" height="40"/>
+</a>
+<a href="https://www.nvidia.com/en-in/autonomous-machines/embedded-systems/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" width="40" height="40"/>
+</a>
+</p>
+
+<h4>DevOps and Systems</h4>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+<h4>Databases</h4>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
+</p>
+
+<h4>Other Tools</h4>
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+</p>
+
+---
+
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Izpiz06&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Izpiz06&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### Highlights
+- Built hybrid RF + LSTM HPC Wait-Time Prediction System  
+- Robotics and AI practitioner working on real systems  
+- Passionate about scalable computing and engineering  
+
+Always open to collaborating in HPC, Robotics, ML Systems, and Systems Engineering.
