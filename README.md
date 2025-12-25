@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Mohammad Izaan (Iz)</h1>
+![Header](https://raw.githubusercontent.com/Izpiz06/Izpiz06/main/header.png)
+
 <h3 align="center">High Performance Computing | Robotics | Accelerated Computing | AI</h3>
 
 <p align="center">
