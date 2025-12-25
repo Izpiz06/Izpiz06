@@ -29,10 +29,10 @@
 
 <h4>HPC / Parallel Computing</h4>
 <p align="left">
-<a href="https://developer.nvidia.com/cuda-zone" target="_blank"><img src="https://www.vectorlogo.zone/logos/nvidia_cuda/nvidia_cuda-icon.svg" width="40" height="40"/></a>
+<a href="https://developer.nvidia.com/cuda-zone" target="_blank"><img src="https://www.svgrepo.com/show/373541/cuda.svg" width="40" height="40"/></a>
 <a href="https://slurm.schedmd.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg" width="40" height="40"/></a>
-<a href="https://www.openmp.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/OpenMP_logo.svg" width="40" height="40"/></a>
-<a href="https://www.open-mpi.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/OpenMPI_logo.svg" width="40" height="40"/></a>
+<a href="https://www.openmp.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png" width="40" height="40"/></a>
+<a href="https://www.open-mpi.org/" target="_blank"><img src="https://www.spi-inc.org/projects/mpi-forum-logo.png" width="40" height="40"/></a>
 </p>
 
 <h4>Programming and Scripting</h4>
