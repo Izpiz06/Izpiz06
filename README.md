@@ -98,10 +98,10 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Izpiz06&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Izpiz06&theme=tokyonight" height="160"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Izpiz06&theme=tokyonight-duo&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  </a>
 </p>
-
 ---
 
 ### Highlights
