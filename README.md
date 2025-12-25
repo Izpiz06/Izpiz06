@@ -68,7 +68,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" width="40" height="40"/>
 </a>
 <a href="https://www.nvidia.com/en-in/autonomous-machines/embedded-systems/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" width="40" height="40"/>
+  <img src="https://promwad.com/sites/default/files/nvidia-jetson.png" width="40" height="40"/>
 </a>
 </p>
 
