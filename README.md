@@ -8,6 +8,7 @@
 ---
 
 ### About Me
+- Currently pursuing **B.Tech in Computer Science and Engineering with Hons. in GPU Accelerated Computing** at **SRM Institute of Science and Technology, Kattankulathur**
 - Working on HPC Job Wait Time Predictor at IIT Delhi  
 - Interests: High Performance Computing, Distributed Systems, CUDA, Robotics, AI  
 - Currently learning: SLURM, Docker, Kubernetes, Parallel Programming, ML Systems  
